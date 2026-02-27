@@ -1,4 +1,4 @@
-
+# Retail Sales & Profit Dashboard
 
 This project is an interactive Power BI dashboard built to analyze retail sales performance and profitability using a retail dataset sourced from Kaggle.
 
